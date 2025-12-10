@@ -5,3 +5,6 @@ print("La velocidad del MCL38 es:", velocidad_actual, "km/h")
 # CÓDIGO EXPERIMENTAL - NO TOCAR
 velocidad_actual = 9999
 print("Modo Cohete activado:", velocidad_actual)
+
+# Sistema DRS Activado
+drs_zona = True
